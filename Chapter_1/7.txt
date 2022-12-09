@@ -1,0 +1,1 @@
+The error message shows that it encountered a closing parentheses when it was expecting a closing bracket.

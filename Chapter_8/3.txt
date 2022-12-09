@@ -1,0 +1,1 @@
+Exception handling allows you to deal with exceptions, or errors, as they come up in your program and handle them as you like, without causing your program to end prematurely.

@@ -1,0 +1,1 @@
+x prints 3 in the first example but produces an error in the second. This is because x is created outside of the scope of the block in the first example, but within that scope in the second. In the second example, when x is referenced outside that scope, it produces an error.

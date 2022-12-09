@@ -1,0 +1,1 @@
+An array stores values with an ordered index, while a hash stores them by key-value pairs.

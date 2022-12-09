@@ -1,0 +1,1 @@
+The code won't print anything because the scream function returns before anything is printed.

@@ -1,0 +1,1 @@
+Line 2 saves the key as a symbol while line 3 saves it as a string.

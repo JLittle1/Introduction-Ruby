@@ -1,0 +1,1 @@
+There's no & before the block parameter to tell the method to expect a block.

@@ -1,0 +1,1 @@
+Nothing will be printed because all execute does is return the block as a proc.
